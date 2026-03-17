@@ -140,15 +140,9 @@ MIT License
 
 Viraj Ratnakar
 
-💡 Idea Behind This
+💡 Idea Behind This:
 
-Instead of writing:
-
-<button onclick="window.open('https://google.com')">Open</button>
-
-You write:
-
-button(Open Google, open(https://google.com))
+to make coding easier for kids who want to build.
 
 ✨ Simpler. Faster. More fun.
 
